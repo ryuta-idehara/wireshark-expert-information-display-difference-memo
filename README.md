@@ -21,6 +21,14 @@ TryHackMeルーム「Wireshark: The Basics」に付属の.pcapngファイルを�
 |----------|-------------|-------------|
 | Illegal characters in header name | 1636 | 11 |
 
+###  v3.2.3（TryHackMe環境）
+
+![Expert Info - v3.2.3](./screenshot/expertinfo_v3.2.3.png)
+
+###  v4.4.6（Kali環境）
+
+![Expert Info - v4.4.6](./screenshot/expertinfo_v4.4.6.png)
+
 → 同一のファイルに対して、表示される警告件数が異なる
 
 ##  考察
